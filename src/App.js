@@ -10,6 +10,7 @@ function App() {
           <p>404</p>
         </div>
         <div className="container">
+          
           {/* caveman left */}
           <div className="caveman">
             <div className="leg">
@@ -27,6 +28,7 @@ function App() {
               <div className="circle" />
             </div>
             <div className="head">
+
               <div className="eye">
                 <div className="nose" />
               </div>
@@ -61,9 +63,13 @@ function App() {
             <div className="arm-right">
               <div className="club" />
             </div>
+
           </div>
+          
         </div>
+        
       </div>
+      
     </div>
   );
 }
